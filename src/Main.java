@@ -15,7 +15,7 @@ public class Main {
 
         List <Integer> asd = new ArrayList<>();
 
-        List<String> list1 = new ArrayList();
+        List<String> list1 = new ArrayList();//DEVELOP1s
         List<String> list2 = new ArrayList();
 
         FileInputStream fileInputStream = new FileInputStream("input.txt");
